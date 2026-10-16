@@ -15,3 +15,5 @@
 13. Avoid vague subjects such as "fix stuff".
 14. Exclude secrets and sensitive information from messages.
 15. Proofread the message before creating the commit.
+
+16. Edited by the owner in the editor takeover check.
